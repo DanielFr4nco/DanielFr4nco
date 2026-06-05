@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything i can
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kYurVMWlsc7OWWg3jb/giphy.gif" width="700" alt="GIF animado">
+  <img src="https://raw.githubusercontent.com/DanielFranco0/DanielFranco0/main/assets/banner.gif" width="700" alt="GIF animado">
 </p>
 
 ## 🐍 Minhas contribuições
